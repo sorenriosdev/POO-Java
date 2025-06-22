@@ -1,0 +1,23 @@
+# Ejercicio 01:
+
+Diseñe la clase Trabajador con los atributos públicos: codigo (int), 
+nombre (String), horas trabajadas (int) y tarifa por hora (double).
+
+Implemente además: - - - - 
+Un método que retorne el sueldo bruto (horas * tarifa). 
+Un método que retorne el descuento por AFP (10% del sueldo bruto). 
+Un método que retorne el descuento por EPS (5% del sueldo bruto). 
+Un método que retorne el sueldo neto (sueldo bruto – descuentoAFP – descuentoEPS). 
+En la clase principal, a la pulsación del botón Procesar: - - - 
+Declare y cree un objeto de tipo Expositor. 
+Ingrese datos fijos. 
+Visualice todos sus datos. 
+
+**Nivel:** 🟢 Básico  
+**Conceptos:** Clases, Objetos, Métodos
+
+## 🎯 Objetivo
+Crear una clase Trabajador que calcule sueldo bruto, descuentos y sueldo neto, ingresando los datos fijos.
+
+## 📋 Ver Solución
+- [Código fuente](src/)
