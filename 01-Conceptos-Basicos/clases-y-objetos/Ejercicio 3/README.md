@@ -30,9 +30,3 @@ Diseñar una clase `Equipo` que maneje conversiones de moneda automáticamente, 
 - [Clase Equipo](src/Equipo.java)
 - [Clase Principal](src/Principal.java)
 
-## ✅ Lista de Verificación
-- [ ] Clase `Equipo` con atributos públicos
-- [ ] Métodos de conversión implementados
-- [ ] Entrada de datos por consola
-- [ ] Salida formateada con todas las monedas
-- [ ] Cálculos correctos aplicados
